@@ -1,0 +1,1 @@
+swipl -q -s kreuz.pl
